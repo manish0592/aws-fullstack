@@ -1,4 +1,4 @@
-# AWS Three-Tier Web Architecture Workshop
+# AWS Three-Full Stack Architecture Workshop
 
 ## Overview
 This workshop provides a practical, hands-on experience in building a **three-tier web architecture on AWS**. You will manually set up and configure essential components across the network, security, application, and database layers to deploy a scalable and highly available architecture.
