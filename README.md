@@ -24,6 +24,7 @@ By the end of this, we will be able to:
 ## 🖼 Architecture Diagram
 
 Below is a simplified representation of the architecture we'll build during the process:
+
 <img width="542" height="512" alt="AWS-Full-Stack" src="https://github.com/user-attachments/assets/b3e7b3f9-22fe-4604-805d-c3bec02cf69f" />
 
 
